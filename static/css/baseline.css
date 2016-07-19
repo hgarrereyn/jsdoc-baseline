@@ -4496,6 +4496,7 @@ li.jqtree-closed > ul {
 .jqtree-toggler {
   margin-left: 0.2em;
   margin-right: 0.6em;
+  position: cursor;
 }
 .jqtree-toggler.jqtree-closed {
   margin-left: 0;
